@@ -1,8 +1,13 @@
-# React + Vite
+# RandYT
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+You ever notice when you record a video most cameras will name the video accordingly within their file structure?
 
-Currently, two official plugins are available:
+Even if you didn't, thousands of these videos have found their way direct to Youtube, and act as a really fun grab bag of unscripted humanity.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Use RandYT to discover classics such as:
+
+'1104.mp4'
+'9229.mp4'
+'1013.mp4'
+
+
